@@ -1,0 +1,14 @@
+{
+  "name": "atom-language-danmakufu",
+  "version": "0.1.0",
+  "description": "Touhou Danmakufu language support in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/drakeirving/atom-language-danmakufu",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
